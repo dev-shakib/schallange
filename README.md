@@ -1,5 +1,5 @@
-# ShopifyChallenge
-This is a CRUD application for Shopify BAckend Challenge. 
+# Simple CRUD
+lskit_ss_1 
 
 # Functionality
 User can:
